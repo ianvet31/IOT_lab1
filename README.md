@@ -8,3 +8,6 @@ The PiCar also features on-the-fly object detection via the PiCamera and a light
 
 
 ![image](https://github.com/ianvet31/IOT_lab1/assets/61299105/dd910fa4-7d71-421d-8107-16b19164552f)
+
+
+![image](https://github.com/ianvet31/IOT_lab1/assets/61299105/2baedaa0-b4cf-4ac5-9c19-427174c35d5b)
